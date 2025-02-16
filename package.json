@@ -1,0 +1,24 @@
+{
+  "name": "shoponline",
+  "version": "1.0.0",
+  "description": "shoponline",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^3.0.3",
+    "del": "^7.0.0",
+    "gulp": "^4.0.2",
+    "gulp-cssimport": "^7.0.0",
+    "gulp-debug": "^5.0.1",
+    "gulp-imagemin": "^9.1.0",
+    "localtunnel": "^2.0.2"
+  },
+  "dependencies": {
+    "tree": "^0.1.3"
+  }
+}
